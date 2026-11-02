@@ -1,0 +1,8 @@
+.lost{
+    display: flex;
+    flex-direction: column;
+}
+.body{
+    align-items: center;
+    justify-content: center;
+}
